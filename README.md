@@ -26,10 +26,10 @@ im working on arduino, hopefully i get better
 Image credit belongs to [Troy Baverstock](https://troybaverstock.com/learn/fritzing-circuit-diagrams/)
 
 ### Reflection
-write a reflection here, remember that it should be usefull, not a diary entry.
+this week i learned some of the basics of arduino and what i can do with it in the future.
 
 ## FiniteLEDBlink
-
+work i progress
 ### Description & Code
 
 ```C++
