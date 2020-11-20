@@ -1,6 +1,6 @@
 # engineering-notebook
 # BasicArduino
-I'm going to learn how to use an Arduino, and make awesome things with it!
+im working on arduino, hopefully i get better
 
 
 ## TableofContents
@@ -17,7 +17,7 @@ I'm going to learn how to use an Arduino, and make awesome things with it!
 ```
 
 ### Evidence
-[Here is my code on Arduino Create](https://create.arduino.cc/editor/helmstk1/9a3831dd-4b86-42f2-be49-c28b84874092/preview)
+[Here is my code on Arduino Create](https://create.arduino.cc/editor/mtimmin65/254e4990-83f3-4a54-809a-09dd0e8cd70a/preview)
 
 ### Image or Wiring
 <img src="http://troybaverstock.com/wp-content/uploads/2019/04/arduino-servo-button-red-green-RGB-LED-wiring-diagram.png" width="300px" /> 
