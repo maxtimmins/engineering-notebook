@@ -1,6 +1,6 @@
 # engineering-notebook
 # BasicArduino
-im working on arduino, hopefully i get better
+im working on arduino, i finished finite blink and sensor.
 
 
 ## TableofContents
